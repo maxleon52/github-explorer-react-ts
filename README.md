@@ -2,7 +2,7 @@
 
 ## Está é uma aplicação feita no BootCamp da Rocketseat, usando os principais conceitos de ReactJs e TypeScript, consumindo dados da API do Github.
 
-A aplicação mostra lista o repositório e suas respectivas issues.
+A aplicação mostra o repositório e suas respectivas issues.
 
 **Para testar o projeto basta:**
 
