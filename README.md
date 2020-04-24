@@ -17,3 +17,6 @@ A aplicação mostra o repositório e suas respectivas issues.
 Pronto!
 
 A aplicação utiliza o localStorage para salvar os dados.
+
+![Image1 do app](/img1.png)
+![Image2 do app](/img2.png)
